@@ -41,9 +41,7 @@ here's how i did the animation thingy
 To run this project locally:
 
 1. Clone the repository:
-   ```bash
 git clone https://github.com/Lakshmi-Devi1/Portfolio2.git
-   ```
 3. Navigate to the project directory:
    ```bash
    cd Portfolio
