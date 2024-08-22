@@ -4,7 +4,6 @@ Welcome to my portfolio website! This repository contains the source code for my
 Checkout below:
 https://portfolio2-gcfyvps00-sarikonda-lakshmi-devis-projects-e33e33b6.vercel.app/
 ## Technologies Used
-
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling and layout.
 - **JavaScript**: Interactivity and dynamic content.
