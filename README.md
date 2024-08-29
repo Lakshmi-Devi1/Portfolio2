@@ -11,7 +11,6 @@ https://portfolio2-gcfyvps00-sarikonda-lakshmi-devis-projects-e33e33b6.vercel.ap
 - **Home**: Introduction and overview of who I am.
 - **About**: Detailed information about my background, skills, and interests.
 - **Projects**: Showcase of my projects with descriptions and links to the live demos and source code.
-- **Contact**: Form to get in touch with me directly.
 ## Getting Started
 To run this project locally:
 1. Clone the repository:
