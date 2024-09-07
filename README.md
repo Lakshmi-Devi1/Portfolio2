@@ -1,6 +1,7 @@
 #Sarikonda Lakshmi Devi Portfolio
 
-Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and experience.
+Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects.
+
 Checkout below:
 https://portfolio2-gcfyvps00-sarikonda-lakshmi-devis-projects-e33e33b6.vercel.app/
 ## Technologies Used
