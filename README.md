@@ -13,7 +13,7 @@ https://portfolio2-gcfyvps00-sarikonda-lakshmi-devis-projects-e33e33b6.vercel.ap
 - **About**: Detailed information about my background, skills, and interests.
 - **Projects**: Showcase of my projects with descriptions and links to the live demos and source code.
 ## Getting Started
-To run this project locally:
+To run this project locally
 1. Clone the repository:
 git clone https://github.com/Lakshmi-Devi1/Portfolio2.git
 3. Navigate to the project directory:
